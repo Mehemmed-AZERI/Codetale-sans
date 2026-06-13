@@ -37,3 +37,27 @@ pillow – Powers frame manipulation and layer rendering for custom window anima
 groq – Manages contextual prompt routing to the Groq inference engine.
 
 tkinterdnd2 – Adds native operating system drag-and-drop registrations onto the UI window canvas.
+
+
+
+
+
+
+🔑 Acquisition Guide: Groq Cloud API Keys
+This component of the installation process configures the authentication credentials necessary for the live conversational sub-routines powered by the Groq SDK.
+
+🌐 Step 1: Initialize Developer Account
+Open your web browser and navigate directly to the developer environment endpoint at console.groq.com.
+
+Complete the registration sequence by authenticating through your preferred method (Email, Google Single Sign-On, or GitHub OAuth).
+
+🗝️ Step 2: Provision the Token String
+Locate the primary left-hand side-dock menu panel within the console display.
+
+Select the API Keys management option (or target console.groq.com/keys directly inside your navigation bar).
+
+Click the "Create API Key" button element.
+
+Input a logical identifier tag within the name field (such as SansCF-Assistant) and click Create.
+
+⚠️ CRITICAL RECOVERY NOTICE: Copy the output key token string (prefixed with gsk_) immediately upon generation. For data confidentiality reasons, the developer dashboard encrypts this view and will only render the raw characters once. Closing out the modal dialogue box before replication will require invalidating the old token and generating a replacement key.
