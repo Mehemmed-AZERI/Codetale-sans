@@ -1,5 +1,7 @@
 Here is the complete, full-production-ready GitHub style README.md guide that includes Python installation via winget, dependency installation, directory architecture, and running instructions!
 
+FIRST OF ALL DOWNLOAD ALL THING BY IN RAR AND GO TO YOUR DESKTOP AND CREATE A FOLDER AND UNZIP THE RAR AND PLACE EVRYTHING I THAT RAR TO THE FOLDER U CREATED (if u dont it will be messy asf)
+
 💀 Sans Overlay & Codeforces Assistant
 A custom interactive system overlay featuring a responsive desktop assistant, audio synthesis pipelines, a built-in conversational inference loop, and a live Codeforces solution tracker.
 
