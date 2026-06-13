@@ -15,15 +15,16 @@ Type cmd and press Enter to open the Command Prompt.
 
 Paste the following command and hit Enter:
 
-Bash
 winget install Python.Python.3.11
+
 ⚠️ CRITICAL: Once the installation finishes, you must close your current Command Prompt window and open a new one (by pressing Windows + R and typing cmd again). This refreshes your environment variables so Windows recognizes the pip and python executables.
 
 📦 Step 1: Install Project Dependencies
 With a fresh Command Prompt window open, execute the following command to download and install all the non-standard Python frameworks required by the codebase:
 
-Bash
+
 pip install requests psutil pygame pillow groq tkinterdnd2
+
 What's being downloaded:
 requests – Queries the Codeforces API endpoints to monitor user profiles and track solution submissions.
 
