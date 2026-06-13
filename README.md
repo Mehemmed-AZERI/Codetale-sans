@@ -61,3 +61,5 @@ Click the "Create API Key" button element.
 Input a logical identifier tag within the name field (such as SansCF-Assistant) and click Create.
 
 ⚠️ CRITICAL RECOVERY NOTICE: Copy the output key token string (prefixed with gsk_) immediately upon generation. For data confidentiality reasons, the developer dashboard encrypts this view and will only render the raw characters once. Closing out the modal dialogue box before replication will require invalidating the old token and generating a replacement key.
+
+After doing all and having the key (dont forget yo copy and place it in a txt else u will loose) go to sans.py open it wih txt and press ctrl+f and place there ---->API_KEY = "gogetyours:p"<---- afer u find it replace gogetyours:p with yours and woallah u get a sans base nika who will help ya do question :D
