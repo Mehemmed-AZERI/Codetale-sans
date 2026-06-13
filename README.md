@@ -1,3 +1,5 @@
+Here is the complete, full-production-ready GitHub style README.md guide that includes Python installation via winget, dependency installation, directory architecture, and running instructions!
+
 💀 Sans Overlay & Codeforces Assistant
 A custom interactive system overlay featuring a responsive desktop assistant, audio synthesis pipelines, a built-in conversational inference loop, and a live Codeforces solution tracker.
 
@@ -34,18 +36,3 @@ pillow – Powers frame manipulation and layer rendering for custom window anima
 groq – Manages contextual prompt routing to the Groq inference engine.
 
 tkinterdnd2 – Adds native operating system drag-and-drop registrations onto the UI window canvas.
-
-📂 Step 2: Set Up the File Structure
-The main script reads textures and audio directly from its current working path. To prevent FileNotFoundError runtime crashes, organize your local project folder exactly like this:
-
-Markdown
-📂 your-project-folder/
- ├── 📄 sans.py                # Main script executable
- ├── 🎵 voice_sans.mp3         # Character voice asset
- ├── 🎞️ sanssleep.gif          # Idle animation state asset
- ├── 🖼️ sans.png               # Default state UI texture
- ├── 🖼️ sanslis.png            # Listening state UI texture
- ├── 🖼️ sansproceed.png        # Execution state UI texture
- ├── 🖼️ sanser.png             # Error state UI texture
- ├── 🖼️ sansad.png             # Warning state UI texture
- └── 🖼️ sansang.png            # Angry state UI texture
